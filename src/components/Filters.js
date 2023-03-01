@@ -11,7 +11,7 @@ export default function Filters() {
         <span>
             <Form.Check 
             inline
-            label='Assending'
+            label='Ascending'
             name='group1'
             type='radio'
             id={'inline-1'}
